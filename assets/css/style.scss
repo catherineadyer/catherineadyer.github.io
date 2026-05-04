@@ -2,5 +2,7 @@
 ---
 
 $base-font-family: "Georgia", serif;
+$font-family-main: "Georgia", serif;
+$font-family-headings: "Georgia", serif;
 
 @import "{{ site.theme }}";
