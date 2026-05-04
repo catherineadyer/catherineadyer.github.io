@@ -1,4 +1,7 @@
 title: "Catherine Dyer"
 email: "...@gmail.com"
 description: "My resume website"
-theme: minimal
+
+remote_theme: pages-themes/minimal
+plugins:
+  - jekyll-remote-theme
