@@ -2,8 +2,8 @@
 ---
 
 $base-font-family: "Georgia", serif;
-$font-family-main: "Georgia", serif;
-$font-family-headings: "Georgia", serif;
-$header-font-family: "Georgia", serif;
 
 @import "{{ site.theme }}";
+body {
+  font-family: "Georgia", serif;
+}
